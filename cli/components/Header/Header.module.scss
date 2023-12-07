@@ -1,0 +1,23 @@
+.root {
+  background-color: #ffffff !important;
+
+  :global {
+    .ant-menu {
+      background-color: transparent !important;
+    }
+  }
+}
+
+
+
+.topMenu {
+  min-width: 200px;
+  margin-left: auto;
+  margin-right: auto; 
+  :global {
+
+    color: #000000 ;
+
+  }
+}
+
